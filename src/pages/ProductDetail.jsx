@@ -1,11 +1,14 @@
 import { getProductsById } from 'fakeAPI';
-import { useParams } from 'react-router-dom';
+import { Link, useLocation, useParams } from 'react-router-dom';
 
 const ProductDetail = () => {
   const { productId } = useParams();
   const product = getProductsById(productId);
+  const location = useLocation();
+  console.log(location);
   return (
     <div>
+      <Link to={location.state.from}>Back to products</Link>
       <img src="https://via.placeholder.com/960x240" alt={`${product.name}`} />
       <h2>{product.name}</h2>
       <p>
