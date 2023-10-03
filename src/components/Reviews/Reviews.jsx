@@ -1,4 +1,4 @@
-export const Reviews = () => {
+const Reviews = () => {
   return (
     <section>
       <ul>
@@ -27,3 +27,4 @@ export const Reviews = () => {
     </section>
   );
 };
+export default Reviews;
