@@ -1,13 +1,27 @@
 {
   "files": {
     "main.css": "/practice-react-routing/static/css/main.7acaea2f.css",
-    "main.js": "/practice-react-routing/static/js/main.1dd447fc.js",
+    "main.js": "/practice-react-routing/static/js/main.f882da01.js",
+    "static/js/609.8c6bb40b.chunk.js": "/practice-react-routing/static/js/609.8c6bb40b.chunk.js",
+    "static/js/186.95faa118.chunk.js": "/practice-react-routing/static/js/186.95faa118.chunk.js",
+    "static/js/708.e0b9972e.chunk.js": "/practice-react-routing/static/js/708.e0b9972e.chunk.js",
+    "static/js/175.34463a10.chunk.js": "/practice-react-routing/static/js/175.34463a10.chunk.js",
+    "static/js/415.b013bccb.chunk.js": "/practice-react-routing/static/js/415.b013bccb.chunk.js",
+    "static/js/975.ec31ab9b.chunk.js": "/practice-react-routing/static/js/975.ec31ab9b.chunk.js",
+    "static/js/181.4a96d7a6.chunk.js": "/practice-react-routing/static/js/181.4a96d7a6.chunk.js",
     "index.html": "/practice-react-routing/index.html",
     "main.7acaea2f.css.map": "/practice-react-routing/static/css/main.7acaea2f.css.map",
-    "main.1dd447fc.js.map": "/practice-react-routing/static/js/main.1dd447fc.js.map"
+    "main.f882da01.js.map": "/practice-react-routing/static/js/main.f882da01.js.map",
+    "609.8c6bb40b.chunk.js.map": "/practice-react-routing/static/js/609.8c6bb40b.chunk.js.map",
+    "186.95faa118.chunk.js.map": "/practice-react-routing/static/js/186.95faa118.chunk.js.map",
+    "708.e0b9972e.chunk.js.map": "/practice-react-routing/static/js/708.e0b9972e.chunk.js.map",
+    "175.34463a10.chunk.js.map": "/practice-react-routing/static/js/175.34463a10.chunk.js.map",
+    "415.b013bccb.chunk.js.map": "/practice-react-routing/static/js/415.b013bccb.chunk.js.map",
+    "975.ec31ab9b.chunk.js.map": "/practice-react-routing/static/js/975.ec31ab9b.chunk.js.map",
+    "181.4a96d7a6.chunk.js.map": "/practice-react-routing/static/js/181.4a96d7a6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7acaea2f.css",
-    "static/js/main.1dd447fc.js"
+    "static/js/main.f882da01.js"
   ]
 }
